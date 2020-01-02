@@ -12,7 +12,6 @@ import { TabNavigator } from 'react-navigation';
 import Angular from './Angular';
 import Ember from './Ember';
 import ReactJS from './React';
-import Vue from './Vue';
 
 const Container = styled.View`
   justifyContent: center;
